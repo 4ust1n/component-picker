@@ -1,1 +1,2 @@
-# component-picker
+# Component Picker
+Developed using React and Spring.
